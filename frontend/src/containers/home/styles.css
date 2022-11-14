@@ -1,0 +1,17 @@
+.main{
+    background-image: red;
+}
+
+.cback{
+    background-color: #004AAD !important;
+    color: white !important;
+}
+
+body{
+    font-family: 'Roboto Mono', monospace;
+}
+
+.midtitle{
+    padding-top: 7%;
+    padding-bottom: 7%;
+}

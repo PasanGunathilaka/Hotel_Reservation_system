@@ -1,0 +1,41 @@
+.formcontent{
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.3);
+    margin-top: 15%;
+    background-color: rgb(185, 210, 241);
+    padding: 5%;
+    border: 2px solid rgb(185, 210, 241);
+    border-radius: 10px;
+  }
+  
+  /* --- TestPurpose---- 
+  
+   
+  
+  */
+  
+  .logoimg{
+    width: 200px;
+  }
+  
+  .cardclass{
+    padding: 2%;
+    margin-top: 10%;
+    
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.3);
+  }
+   
+  h2,h3{ 
+  font-weight: bold;
+  color: rgb(9, 9, 61);
+  }
+  
+  /* body {
+    background-image: linear-gradient(to right, whitesmoke , rgb(158, 158, 192));
+  } */
+  
+  .alert{
+    display: none;
+  }
+  .new {
+    margin-bottom: 6%;
+  }
